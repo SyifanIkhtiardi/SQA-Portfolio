@@ -1,25 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f46f4de.chunk.css",
-    "main.js": "/static/js/main.c690c5c6.chunk.js",
-    "main.js.map": "/static/js/main.c690c5c6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8691016b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8691016b.js.map",
-    "static/css/2.95d02a1e.chunk.css": "/static/css/2.95d02a1e.chunk.css",
-    "static/js/2.499959fc.chunk.js": "/static/js/2.499959fc.chunk.js",
-    "static/js/2.499959fc.chunk.js.map": "/static/js/2.499959fc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.95d02a1e.chunk.css.map": "/static/css/2.95d02a1e.chunk.css.map",
-    "static/css/main.1f46f4de.chunk.css.map": "/static/css/main.1f46f4de.chunk.css.map",
-    "static/js/2.499959fc.chunk.js.LICENSE.txt": "/static/js/2.499959fc.chunk.js.LICENSE.txt",
-    "static/media/Photo_fw14_056.79956555.png": "/static/media/Photo_fw14_056.79956555.png",
-    "static/media/S-logo.95c79f61.png": "/static/media/S-logo.95c79f61.png"
+    "main.css": "/SQA-Portfolio/static/css/main.05a991f7.css",
+    "main.js": "/SQA-Portfolio/static/js/main.44ff4527.js",
+    "static/media/Demoblaze web.png": "/SQA-Portfolio/static/media/Demoblaze web.f50ef3f91de12034efc2.png",
+    "static/media/simpleBook API.png": "/SQA-Portfolio/static/media/simpleBook API.3006414633f34049eb47.png",
+    "static/media/IMG_20230518_024730843.jpeg": "/SQA-Portfolio/static/media/IMG_20230518_024730843.9cc25b1ec24c4b1b7bc8.jpeg",
+    "static/media/S-logo.png": "/SQA-Portfolio/static/media/S-logo.95c79f61171324a184ea.png",
+    "index.html": "/SQA-Portfolio/index.html",
+    "main.05a991f7.css.map": "/SQA-Portfolio/static/css/main.05a991f7.css.map",
+    "main.44ff4527.js.map": "/SQA-Portfolio/static/js/main.44ff4527.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.8691016b.js",
-    "static/css/2.95d02a1e.chunk.css",
-    "static/js/2.499959fc.chunk.js",
-    "static/css/main.1f46f4de.chunk.css",
-    "static/js/main.c690c5c6.chunk.js"
+    "static/css/main.05a991f7.css",
+    "static/js/main.44ff4527.js"
   ]
 }
