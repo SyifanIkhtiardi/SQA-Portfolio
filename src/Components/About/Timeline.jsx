@@ -203,7 +203,7 @@ export const Timeline = () => {
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
             >
-              PrivyID
+              Privy
             </h4>
             <p data-aos="fade-right">
               Attend regular Sprint Planning and Sprint Review sessions, Create and execute test case.
