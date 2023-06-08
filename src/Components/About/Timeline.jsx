@@ -132,7 +132,7 @@ export const Timeline = () => {
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
             >
-              Digital Talent Scholarchip (Kemenkominfo)
+              Digital Talent Scholarship (Kemenkominfo)
             </h4>
             <p data-aos="fade-right">
             Joined Fresh Graduated Academy from Digital Talent Scholarship to learn Front-End Developmentt.
@@ -197,7 +197,7 @@ export const Timeline = () => {
               className="vertical-timeline-element-title"
               data-aos="fade-right"
             >
-              Software Quality Assyrance Internship
+              Software Quality Assurance Internship
             </h3>
             <h4
               className="vertical-timeline-element-subtitle"
