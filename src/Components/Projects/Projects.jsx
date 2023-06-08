@@ -18,9 +18,9 @@ import { DiCss3 } from "react-icons/di";
 import { VscJson } from "react-icons/vsc";
 import { IoLogoJavascript } from "react-icons/io";
 import { BiSpreadsheet } from "react-icons/bi";
-import demoblazePic from "../../assets/Demoblaze web.png"
-import simpleBookAPI from "../../assets/simpleBook API.png"
-import cypressPng from "../../assets/cypress.png"
+import demoblazePic from "https://github.com/SyifanIkhtiardi/SQA-Portfolio/blob/main/src/assets/Demoblaze%20web.png"
+import simpleBookAPI from "https://github.com/SyifanIkhtiardi/SQA-Portfolio/blob/main/src/assets/simpleBook%20API.png"
+import cypressPng from "https://github.com/SyifanIkhtiardi/SQA-Portfolio/blob/main/src/assets/cypress.png"
 
 export const Projects = () => {
   return (
