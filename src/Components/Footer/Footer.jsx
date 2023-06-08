@@ -11,35 +11,7 @@ export const Footer = () => {
 
   return (
     <>
-      <div
-            className={"contactcontainer " + themename}
-            data-aos="fade-right"
-          >
-            <a
-              href="https://www.linkedin.com/in/syifanikhtiardi/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <FaLinkedin className="linkedin" />
-            </a>
-            <a
-              href="https://github.com/SyifanIkhtiardi/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <VscGithub className="github" />
-            </a>
-            <a
-              href="mailto:ikhtiardi.s@gmail.com"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <CgMail className="email" />
-            </a>
-            <a href="tel:+6281391923771" target="_blank" rel="noreferrer">
-              <BsFillTelephoneFill className="phone" />
-            </a>
-          </div>
+      
     </>
   );
 };
